@@ -1,5 +1,6 @@
 # autosaver
 Autosaver java GUI application  
+![alt text](./autosaver.JPG)
 # Building executable jar 
 ### Compile the main class
 ```
